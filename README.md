@@ -40,7 +40,7 @@ git clone https://github.com/username/repo.git
 
 ## 🔑 API Configuration
 
-1. Get free API key from [remove.bg](https://www.remove.bg)
+1. Get free API key from [remove.bg](https://www.remove.bg/api)
 2. Create `.env` file in root directory:
 
 ```env
@@ -51,13 +51,13 @@ REMOVE_BG_API_KEY=your_api_key_here
 
 ## 🌐 Live Demo
 
-[Try it now!](https://username.github.io/repo)
+[Try it now!](https://priyanshu-gupta-9165.github.io/bgremoval/)
 
 ## 🤝 Contributing
 
 ```bash
 # Fork & clone repository
-git clone https://github.com/your-username/repo.git
+git clone https://github.com/Priyanshu-Gupta-9165/repo.git
 cd repo
 ```
 
