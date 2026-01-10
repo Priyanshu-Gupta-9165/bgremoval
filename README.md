@@ -34,7 +34,7 @@ This project is a state-of-the-art web application designed to remove image back
 
 | Light Mode | Dark Mode |
 |:---:|:---:|
-| ![Light Mode](https://via.placeholder.com/400x300.png?text=Light+Mode+Preview) | ![Dark Mode](https://via.placeholder.com/400x300.png?text=Dark+Mode+Preview) |
+| ![Light Mode](assets/light-mode.png) | ![Dark Mode](assets/dark-mode.png) |
 
 ## ⚙️ Installation & Usage
 
