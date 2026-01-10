@@ -1,6 +1,6 @@
 # 🎨 AI Background Remover
 
-![Banner](https://via.placeholder.com/1200x400.png?text=AI+Background+Removal+Tool+|+Premium+Glassmorphism+Design)
+![Banner](assets/banner.png)
 
 > **Transform your images instantly with AI-powered precision wrapped in a stunning modern interface.**
 
@@ -76,5 +76,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Built with ❤️ by <a href="https://github.com/Priyanshu-Gupta-9165">Priyanshu Gupta</a>
+<i>Made by ❤️<b>Priyanshu Gupta</b></i>
 </p>
