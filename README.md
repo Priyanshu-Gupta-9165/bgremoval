@@ -1,6 +1,8 @@
 # 🎨 AI Background Remover
 
-![Banner](assets/banner.png)
+<p align="center">
+  <img src="assets/banner.png" width="600" alt="Banner">
+</p>
 
 > **Transform your images instantly with AI-powered precision wrapped in a stunning modern interface.**
 
