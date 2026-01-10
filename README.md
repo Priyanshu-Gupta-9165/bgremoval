@@ -1,7 +1,7 @@
 # 🎨 AI Background Remover
 
 <p align="center">
-  <img src="assets/demo-banner.webp" width="100%" alt="App Demo">
+  <img src="assets/banner-promo.webp" width="100%" alt="Feature Highlight">
 </p>
 
 > **Transform your images instantly with AI-powered precision wrapped in a stunning modern interface.**
