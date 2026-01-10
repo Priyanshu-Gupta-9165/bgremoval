@@ -1,7 +1,7 @@
 # 🎨 AI Background Remover
 
 <p align="center">
-  <img src="assets/banner.png" width="600" alt="Banner">
+  <img src="assets/banner.webp" width="600" alt="Animated Banner">
 </p>
 
 > **Transform your images instantly with AI-powered precision wrapped in a stunning modern interface.**
